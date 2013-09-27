@@ -1,0 +1,335 @@
+
+
+[14:30:20.904] TypeError: anonymous function does not always return a value @ https://developer.cdn.mozilla.net/media/js/mdn-min.js?build=5097dce:14
+[14:30:20.905] TypeError: anonymous function does not always return a value @ https://developer.cdn.mozilla.net/media/js/mdn-min.js?build=5097dce:21
+[14:30:20.910] TypeError: function g does not always return a value @ https://developer.cdn.mozilla.net/media/js/mdn-min.js?build=5097dce:21
+[14:30:20.910] TypeError: anonymous function does not always return a value @ https://developer.cdn.mozilla.net/media/js/mdn-min.js?build=5097dce:21
+[14:30:20.910] TypeError: function bF does not always return a value @ https://developer.cdn.mozilla.net/media/js/mdn-min.js?build=5097dce:21
+[14:30:20.910] TypeError: function bf does not always return a value @ https://developer.cdn.mozilla.net/media/js/mdn-min.js?build=5097dce:21
+[14:30:20.910] TypeError: anonymous function does not always return a value @ https://developer.cdn.mozilla.net/media/js/mdn-min.js?build=5097dce:21
+[14:30:20.932] ReferenceError: reference to undefined property b6.nodeType @ https://developer.cdn.mozilla.net/media/js/mdn-min.js?build=5097dce:14
+[14:30:20.934] ReferenceError: reference to undefined property b5.attributes[b9].expando @ https://developer.cdn.mozilla.net/media/js/mdn-min.js?build=5097dce:14
+[14:30:20.935] ReferenceError: reference to undefined property bL.valHooks[this] @ https://developer.cdn.mozilla.net/media/js/mdn-min.js?build=5097dce:14
+[14:30:20.943] ReferenceError: reference to undefined property b7[cd] @ https://developer.cdn.mozilla.net/media/js/mdn-min.js?build=5097dce:14
+[14:30:20.972] ReferenceError: assignment to undeclared variable $slideshow @ https://developer.cdn.mozilla.net/media/js/mdn-min.js?build=5097dce:21
+[14:30:20.972] ReferenceError: reference to undefined property b7.nodeType @ https://developer.cdn.mozilla.net/media/js/mdn-min.js?build=5097dce:21
+[14:30:21.068] SyntaxError: octal literals and octal escape sequences are deprecated @ https://www.google.com/uds/?file=search&v=1&hl=en-US&output=nocss%3Dtrue&nooldnames=true:7
+[14:30:21.086] SyntaxError: octal literals and octal escape sequences are deprecated @ https://www.google.com/uds/api/search/1.0/a075bd7791aa5f99550ea5c9db01a0d5/default+en.I.js:73
+[14:30:21.087] SyntaxError: test for equality (==) mistyped as assignment (=)? @ https://www.google.com/uds/api/search/1.0/a075bd7791aa5f99550ea5c9db01a0d5/default+en.I.js:129
+[14:30:21.087] TypeError: anonymous function does not always return a value @ https://www.google.com/uds/api/search/1.0/a075bd7791aa5f99550ea5c9db01a0d5/default+en.I.js:131
+[14:30:21.087] SyntaxError: test for equality (==) mistyped as assignment (=)? @ https://www.google.com/uds/api/search/1.0/a075bd7791aa5f99550ea5c9db01a0d5/default+en.I.js:132
+[14:30:21.088] SyntaxError: test for equality (==) mistyped as assignment (=)? @ https://www.google.com/uds/api/search/1.0/a075bd7791aa5f99550ea5c9db01a0d5/default+en.I.js:141
+[14:30:21.090] TypeError: anonymous function does not always return a value @ https://www.google.com/uds/api/search/1.0/a075bd7791aa5f99550ea5c9db01a0d5/default+en.I.js:159
+[14:30:21.090] SyntaxError: test for equality (==) mistyped as assignment (=)? @ https://www.google.com/uds/api/search/1.0/a075bd7791aa5f99550ea5c9db01a0d5/default+en.I.js:160
+[14:30:21.090] SyntaxError: test for equality (==) mistyped as assignment (=)? @ https://www.google.com/uds/api/search/1.0/a075bd7791aa5f99550ea5c9db01a0d5/default+en.I.js:161
+[14:30:21.090] SyntaxError: test for equality (==) mistyped as assignment (=)? @ https://www.google.com/uds/api/search/1.0/a075bd7791aa5f99550ea5c9db01a0d5/default+en.I.js:164
+[14:30:21.091] SyntaxError: test for equality (==) mistyped as assignment (=)? @ https://www.google.com/uds/api/search/1.0/a075bd7791aa5f99550ea5c9db01a0d5/default+en.I.js:170
+[14:30:21.092] SyntaxError: test for equality (==) mistyped as assignment (=)? @ https://www.google.com/uds/api/search/1.0/a075bd7791aa5f99550ea5c9db01a0d5/default+en.I.js:188
+[14:30:21.093] SyntaxError: test for equality (==) mistyped as assignment (=)? @ https://www.google.com/uds/api/search/1.0/a075bd7791aa5f99550ea5c9db01a0d5/default+en.I.js:197
+[14:30:21.093] SyntaxError: test for equality (==) mistyped as assignment (=)? @ https://www.google.com/uds/api/search/1.0/a075bd7791aa5f99550ea5c9db01a0d5/default+en.I.js:203
+[14:30:21.094] SyntaxError: test for equality (==) mistyped as assignment (=)? @ https://www.google.com/uds/api/search/1.0/a075bd7791aa5f99550ea5c9db01a0d5/default+en.I.js:205
+[14:30:21.095] SyntaxError: test for equality (==) mistyped as assignment (=)? @ https://www.google.com/uds/api/search/1.0/a075bd7791aa5f99550ea5c9db01a0d5/default+en.I.js:218
+[14:30:21.096] SyntaxError: test for equality (==) mistyped as assignment (=)? @ https://www.google.com/uds/api/search/1.0/a075bd7791aa5f99550ea5c9db01a0d5/default+en.I.js:229
+[14:30:21.096] SyntaxError: test for equality (==) mistyped as assignment (=)? @ https://www.google.com/uds/api/search/1.0/a075bd7791aa5f99550ea5c9db01a0d5/default+en.I.js:231
+[14:30:21.103] SyntaxError: test for equality (==) mistyped as assignment (=)? @ https://www.google.com/uds/api/search/1.0/a075bd7791aa5f99550ea5c9db01a0d5/default+en.I.js:361
+[14:30:21.104] SyntaxError: test for equality (==) mistyped as assignment (=)? @ https://www.google.com/uds/api/search/1.0/a075bd7791aa5f99550ea5c9db01a0d5/default+en.I.js:371
+[14:30:21.106] SyntaxError: test for equality (==) mistyped as assignment (=)? @ https://www.google.com/uds/api/search/1.0/a075bd7791aa5f99550ea5c9db01a0d5/default+en.I.js:413
+[14:30:21.107] SyntaxError: test for equality (==) mistyped as assignment (=)? @ https://www.google.com/uds/api/search/1.0/a075bd7791aa5f99550ea5c9db01a0d5/default+en.I.js:444
+[14:30:21.109] TypeError: anonymous function does not always return a value @ https://www.google.com/uds/api/search/1.0/a075bd7791aa5f99550ea5c9db01a0d5/default+en.I.js:482
+[14:30:21.109] TypeError: anonymous function does not always return a value @ https://www.google.com/uds/api/search/1.0/a075bd7791aa5f99550ea5c9db01a0d5/default+en.I.js:483
+[14:30:21.156] TypeError: anonymous function does not always return a value @ https://developer.cdn.mozilla.net/media/js/wiki-min.js?build=5097dce:5
+[14:30:21.186] SyntaxError: in strict mode code, functions may be declared only at top level or immediately within another function @ https://developer.cdn.mozilla.net/media/js/wiki-min.js?build=5097dce:5
+[14:30:21.195] ReferenceError: reference to undefined property g[m] @ https://developer.cdn.mozilla.net/media/js/wiki-min.js?build=5097dce:5
+[14:30:21.200] ReferenceError: reference to undefined property cf.delegateType @ https://developer.cdn.mozilla.net/media/js/mdn-min.js?build=5097dce:14
+[14:30:21.201] ReferenceError: reference to undefined property b.uiBackCompat @ https://developer.cdn.mozilla.net/media/js/wiki-min.js?build=5097dce:5
+[14:30:21.211] ReferenceError: reference to undefined property bL.event.triggered @ https://developer.cdn.mozilla.net/media/js/mdn-min.js?build=5097dce:14
+[14:30:21.221] SyntaxError: property name menu appears more than once in object literal @ https://developer.cdn.mozilla.net/media/js/libs/ckeditor/ckeditor.js?build=5097dce:10
+[14:30:21.221] SyntaxError: property name menu appears more than once in object literal @ https://developer.cdn.mozilla.net/media/js/libs/ckeditor/ckeditor.js?build=5097dce:11
+[14:30:21.221] SyntaxError: test for equality (==) mistyped as assignment (=)? @ https://developer.cdn.mozilla.net/media/js/libs/ckeditor/ckeditor.js?build=5097dce:14
+[14:30:21.222] SyntaxError: test for equality (==) mistyped as assignment (=)? @ https://developer.cdn.mozilla.net/media/js/libs/ckeditor/ckeditor.js?build=5097dce:15
+[14:30:21.223] SyntaxError: test for equality (==) mistyped as assignment (=)? @ https://developer.cdn.mozilla.net/media/js/libs/ckeditor/ckeditor.js?build=5097dce:18
+[14:30:21.223] SyntaxError: test for equality (==) mistyped as assignment (=)? @ https://developer.cdn.mozilla.net/media/js/libs/ckeditor/ckeditor.js?build=5097dce:19
+[14:30:21.223] SyntaxError: test for equality (==) mistyped as assignment (=)? @ https://developer.cdn.mozilla.net/media/js/libs/ckeditor/ckeditor.js?build=5097dce:20
+[14:30:21.224] SyntaxError: in strict mode code, functions may be declared only at top level or immediately within another function @ https://developer.cdn.mozilla.net/media/js/libs/ckeditor/ckeditor.js?build=5097dce:26
+[14:30:21.225] SyntaxError: test for equality (==) mistyped as assignment (=)? @ https://developer.cdn.mozilla.net/media/js/libs/ckeditor/ckeditor.js?build=5097dce:27
+[14:30:21.226] TypeError: function o does not always return a value @ https://developer.cdn.mozilla.net/media/js/libs/ckeditor/ckeditor.js?build=5097dce:31
+[14:30:21.226] SyntaxError: test for equality (==) mistyped as assignment (=)? @ https://developer.cdn.mozilla.net/media/js/libs/ckeditor/ckeditor.js?build=5097dce:33
+[14:30:21.228] TypeError: anonymous function does not always return a value @ https://developer.cdn.mozilla.net/media/js/libs/ckeditor/ckeditor.js?build=5097dce:38
+[14:30:21.229] TypeError: function u does not always return a value @ https://developer.cdn.mozilla.net/media/js/libs/ckeditor/ckeditor.js?build=5097dce:43
+[14:30:21.229] SyntaxError: test for equality (==) mistyped as assignment (=)? @ https://developer.cdn.mozilla.net/media/js/libs/ckeditor/ckeditor.js?build=5097dce:44
+[14:30:21.229] SyntaxError: test for equality (==) mistyped as assignment (=)? @ https://developer.cdn.mozilla.net/media/js/libs/ckeditor/ckeditor.js?build=5097dce:45
+[14:30:21.230] TypeError: anonymous function does not always return a value @ https://developer.cdn.mozilla.net/media/js/libs/ckeditor/ckeditor.js?build=5097dce:46
+[14:30:21.230] SyntaxError: in strict mode code, functions may be declared only at top level or immediately within another function @ https://developer.cdn.mozilla.net/media/js/libs/ckeditor/ckeditor.js?build=5097dce:46
+[14:30:21.230] TypeError: anonymous function does not always return a value @ https://developer.cdn.mozilla.net/media/js/libs/ckeditor/ckeditor.js?build=5097dce:47
+[14:30:21.230] SyntaxError: in strict mode code, functions may be declared only at top level or immediately within another function @ https://developer.cdn.mozilla.net/media/js/libs/ckeditor/ckeditor.js?build=5097dce:49
+[14:30:21.232] SyntaxError: test for equality (==) mistyped as assignment (=)? @ https://developer.cdn.mozilla.net/media/js/libs/ckeditor/ckeditor.js?build=5097dce:54
+[14:30:21.232] SyntaxError: in strict mode code, functions may be declared only at top level or immediately within another function @ https://developer.cdn.mozilla.net/media/js/libs/ckeditor/ckeditor.js?build=5097dce:55
+[14:30:21.232] SyntaxError: test for equality (==) mistyped as assignment (=)? @ https://developer.cdn.mozilla.net/media/js/libs/ckeditor/ckeditor.js?build=5097dce:56
+[14:30:21.232] SyntaxError: property name requires appears more than once in object literal @ https://developer.cdn.mozilla.net/media/js/libs/ckeditor/ckeditor.js?build=5097dce:56
+[14:30:21.232] TypeError: anonymous function does not always return a value @ https://developer.cdn.mozilla.net/media/js/libs/ckeditor/ckeditor.js?build=5097dce:57
+[14:30:21.233] TypeError: anonymous function does not always return a value @ https://developer.cdn.mozilla.net/media/js/libs/ckeditor/ckeditor.js?build=5097dce:59
+[14:30:21.233] TypeError: anonymous function does not always return a value @ https://developer.cdn.mozilla.net/media/js/libs/ckeditor/ckeditor.js?build=5097dce:60
+[14:30:21.233] SyntaxError: property name requires appears more than once in object literal @ https://developer.cdn.mozilla.net/media/js/libs/ckeditor/ckeditor.js?build=5097dce:60
+[14:30:21.233] TypeError: anonymous function does not always return a value @ https://developer.cdn.mozilla.net/media/js/libs/ckeditor/ckeditor.js?build=5097dce:61
+[14:30:21.234] TypeError: anonymous function does not always return a value @ https://developer.cdn.mozilla.net/media/js/libs/ckeditor/ckeditor.js?build=5097dce:63
+[14:30:21.234] TypeError: function m does not always return a value @ https://developer.cdn.mozilla.net/media/js/libs/ckeditor/ckeditor.js?build=5097dce:63
+[14:30:21.234] SyntaxError: test for equality (==) mistyped as assignment (=)? @ https://developer.cdn.mozilla.net/media/js/libs/ckeditor/ckeditor.js?build=5097dce:65
+[14:30:21.235] SyntaxError: test for equality (==) mistyped as assignment (=)? @ https://developer.cdn.mozilla.net/media/js/libs/ckeditor/ckeditor.js?build=5097dce:66
+[14:30:21.235] TypeError: anonymous function does not always return a value @ https://developer.cdn.mozilla.net/media/js/libs/ckeditor/ckeditor.js?build=5097dce:68
+[14:30:21.235] TypeError: anonymous function does not always return a value @ https://developer.cdn.mozilla.net/media/js/libs/ckeditor/ckeditor.js?build=5097dce:69
+[14:30:21.235] SyntaxError: test for equality (==) mistyped as assignment (=)? @ https://developer.cdn.mozilla.net/media/js/libs/ckeditor/ckeditor.js?build=5097dce:69
+[14:30:21.236] SyntaxError: test for equality (==) mistyped as assignment (=)? @ https://developer.cdn.mozilla.net/media/js/libs/ckeditor/ckeditor.js?build=5097dce:71
+[14:30:21.236] SyntaxError: test for equality (==) mistyped as assignment (=)? @ https://developer.cdn.mozilla.net/media/js/libs/ckeditor/ckeditor.js?build=5097dce:72
+[14:30:21.237] SyntaxError: test for equality (==) mistyped as assignment (=)? @ https://developer.cdn.mozilla.net/media/js/libs/ckeditor/ckeditor.js?build=5097dce:75
+[14:30:21.238] SyntaxError: test for equality (==) mistyped as assignment (=)? @ https://developer.cdn.mozilla.net/media/js/libs/ckeditor/ckeditor.js?build=5097dce:79
+[14:30:21.238] SyntaxError: in strict mode code, functions may be declared only at top level or immediately within another function @ https://developer.cdn.mozilla.net/media/js/libs/ckeditor/ckeditor.js?build=5097dce:79
+[14:30:21.238] TypeError: anonymous function does not always return a value @ https://developer.cdn.mozilla.net/media/js/libs/ckeditor/ckeditor.js?build=5097dce:81
+[14:30:21.239] TypeError: anonymous function does not always return a value @ https://developer.cdn.mozilla.net/media/js/libs/ckeditor/ckeditor.js?build=5097dce:84
+[14:30:21.240] SyntaxError: test for equality (==) mistyped as assignment (=)? @ https://developer.cdn.mozilla.net/media/js/libs/ckeditor/ckeditor.js?build=5097dce:87
+[14:30:21.240] SyntaxError: test for equality (==) mistyped as assignment (=)? @ https://developer.cdn.mozilla.net/media/js/libs/ckeditor/ckeditor.js?build=5097dce:88
+[14:30:21.241] SyntaxError: test for equality (==) mistyped as assignment (=)? @ https://developer.cdn.mozilla.net/media/js/libs/ckeditor/ckeditor.js?build=5097dce:93
+[14:30:21.242] SyntaxError: test for equality (==) mistyped as assignment (=)? @ https://developer.cdn.mozilla.net/media/js/libs/ckeditor/ckeditor.js?build=5097dce:94
+[14:30:21.244] TypeError: anonymous function does not always return a value @ https://developer.cdn.mozilla.net/media/js/libs/ckeditor/ckeditor.js?build=5097dce:106
+[14:30:21.245] SyntaxError: test for equality (==) mistyped as assignment (=)? @ https://developer.cdn.mozilla.net/media/js/libs/ckeditor/ckeditor.js?build=5097dce:109
+[14:30:21.246] SyntaxError: test for equality (==) mistyped as assignment (=)? @ https://developer.cdn.mozilla.net/media/js/libs/ckeditor/ckeditor.js?build=5097dce:113
+[14:30:21.247] SyntaxError: test for equality (==) mistyped as assignment (=)? @ https://developer.cdn.mozilla.net/media/js/libs/ckeditor/ckeditor.js?build=5097dce:117
+[14:30:21.247] SyntaxError: test for equality (==) mistyped as assignment (=)? @ https://developer.cdn.mozilla.net/media/js/libs/ckeditor/ckeditor.js?build=5097dce:119
+[14:30:21.248] SyntaxError: in strict mode code, functions may be declared only at top level or immediately within another function @ https://developer.cdn.mozilla.net/media/js/libs/ckeditor/ckeditor.js?build=5097dce:120
+[14:30:21.248] SyntaxError: test for equality (==) mistyped as assignment (=)? @ https://developer.cdn.mozilla.net/media/js/libs/ckeditor/ckeditor.js?build=5097dce:120
+[14:30:21.248] SyntaxError: test for equality (==) mistyped as assignment (=)? @ https://developer.cdn.mozilla.net/media/js/libs/ckeditor/ckeditor.js?build=5097dce:122
+[14:30:21.248] SyntaxError: test for equality (==) mistyped as assignment (=)? @ https://developer.cdn.mozilla.net/media/js/libs/ckeditor/ckeditor.js?build=5097dce:123
+[14:30:21.249] TypeError: anonymous function does not always return a value @ https://developer.cdn.mozilla.net/media/js/libs/ckeditor/ckeditor.js?build=5097dce:126
+[14:30:21.249] SyntaxError: test for equality (==) mistyped as assignment (=)? @ https://developer.cdn.mozilla.net/media/js/libs/ckeditor/ckeditor.js?build=5097dce:126
+[14:30:21.250] TypeError: anonymous function does not always return a value @ https://developer.cdn.mozilla.net/media/js/libs/ckeditor/ckeditor.js?build=5097dce:128
+[14:30:21.250] SyntaxError: in strict mode code, functions may be declared only at top level or immediately within another function @ https://developer.cdn.mozilla.net/media/js/libs/ckeditor/ckeditor.js?build=5097dce:129
+[14:30:21.251] TypeError: function x does not always return a value @ https://developer.cdn.mozilla.net/media/js/libs/ckeditor/ckeditor.js?build=5097dce:131
+[14:30:21.251] SyntaxError: in strict mode code, functions may be declared only at top level or immediately within another function @ https://developer.cdn.mozilla.net/media/js/libs/ckeditor/ckeditor.js?build=5097dce:131
+[14:30:21.251] SyntaxError: in strict mode code, functions may be declared only at top level or immediately within another function @ https://developer.cdn.mozilla.net/media/js/libs/ckeditor/ckeditor.js?build=5097dce:132
+[14:30:21.252] SyntaxError: test for equality (==) mistyped as assignment (=)? @ https://developer.cdn.mozilla.net/media/js/libs/ckeditor/ckeditor.js?build=5097dce:134
+[14:30:21.255] SyntaxError: test for equality (==) mistyped as assignment (=)? @ https://developer.cdn.mozilla.net/media/js/libs/ckeditor/ckeditor.js?build=5097dce:148
+[14:30:21.256] SyntaxError: test for equality (==) mistyped as assignment (=)? @ https://developer.cdn.mozilla.net/media/js/libs/ckeditor/ckeditor.js?build=5097dce:149
+[14:30:21.458] ReferenceError: reference to undefined property a[0] @ https://cdn.optimizely.com/js/237572123.js:46
+[14:30:21.459] ReferenceError: reference to undefined property d.cache[a[d.expando]] @ https://cdn.optimizely.com/js/237572123.js:55
+[14:30:21.467] ReferenceError: reference to undefined property f.event.triggered @ https://mozorg.cdn.mozilla.net/media/js/libs/jquery-1.7.1.min.js:3
+[14:30:21.467] ReferenceError: reference to undefined property f.cache[a[f.expando]] @ https://mozorg.cdn.mozilla.net/media/js/libs/jquery-1.7.1.min.js:2
+[14:30:21.472] Unknown property 'box-sizing'.  Declaration dropped. @ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
+[14:30:21.499] ReferenceError: assignment to undeclared variable crlf @ https://developer.cdn.mozilla.net/media/js/libs/prism/plugins/line-highlight/prism-line-highlight.js:11
+--
+[14:31:23.213] ReferenceError: reference to undefined property b5.returnValue @ https://developer.cdn.mozilla.net/media/js/mdn-min.js?build=5097dce:14
+[14:31:23.213] Use of getPreventDefault() is deprecated.  Use defaultPrevented instead. @ https://developer.cdn.mozilla.net/media/js/mdn-min.js?build=5097dce:14
+[14:31:23.220] ReferenceError: reference to undefined property e.result @ https://developer.cdn.mozilla.net/media/js/mdn-min.js?build=5097dce:14
+--
+[14:31:57.788] ReferenceError: reference to undefined property f.event.triggered @ https://mozorg.cdn.mozilla.net/media/js/libs/jquery-1.7.1.min.js:3
+[14:31:57.788] ReferenceError: reference to undefined property a.returnValue @ https://mozorg.cdn.mozilla.net/media/js/libs/jquery-1.7.1.min.js:3
+[14:31:57.788] ReferenceError: reference to undefined property a.target.nodeType @ https://mozorg.cdn.mozilla.net/media/js/libs/jquery-1.7.1.min.js:3
+[14:31:57.788] ReferenceError: reference to undefined property c.result @ https://mozorg.cdn.mozilla.net/media/js/libs/jquery-1.7.1.min.js:3
+--
+[14:32:24.356] [0,1,2,4].foreach(function(d){alert(d)}
+[14:32:24.360] SyntaxError: missing ) after argument list
+[14:32:28.406] [0,1,2,4].foreach(function(d){alert(d)})
+[14:32:28.411] TypeError: [0, 1, 2, 4].foreach is not a function
+[14:32:32.830] [0,1,2,4].forEach(function(d){alert(d)})
+[14:32:32.835] undefined
+--
+[14:32:48.937] [0,1,2,4].forEach(function(d){console.log(d)})
+[14:32:48.942] undefined
+[14:32:48.944] 0
+[14:32:48.944] 1
+[14:32:48.944] 2
+[14:32:48.945] 4
+[14:32:53.255] [0,1,2,4].forEach(function(d){console.log(d)}
+[14:32:53.260] SyntaxError: missing ) after argument list
+--
+[14:32:58.439] [0,1,2,4].forEach(function(d){console.log(d)})
+
+[14:32:58.449] undefined
+[14:32:58.450] 0
+[14:32:58.451] 1
+[14:32:58.451] 2
+[14:32:58.451] 4
+--
+[14:33:04.138] 
+
+
+
+
+
+
+[14:33:04.149] undefined
+--
+[14:34:24.286] var people = [
+ {age, 7}, {age, 9}, {age, 17}, {age, 1}].map(function(d){console.log(d.age)}
+
+
+
+
+
+
+
+
+[14:34:24.305] SyntaxError: missing : after property id
+--
+[14:34:39.544] var people = [
+ {age, 7}, {age, 9}, {age, 17}, {age, 1}]
+
+people.map(function(d){console.log(d.age)})
+
+
+
+
+
+
+
+
+[14:34:39.553] SyntaxError: missing : after property id
+--
+[14:34:53.623] var people = [
+ {age: 7}, {age: 9}, {age: 17}, {age: 1}]
+
+people.map(function(d){console.log(d.age)})
+
+
+
+
+
+
+
+
+[14:34:53.631] [object Array]
+[14:34:53.632] 7
+[14:34:53.632] 9
+[14:34:53.632] 17
+[14:34:53.632] 1
+--
+[14:35:38.432] var people = [
+ {age: 7}, {age: 9}, {age: 17}, {age: 1}]
+
+people.map(function(d){console.log(d.age)})
+
+people.map( (person) => person.age)
+
+
+
+
+
+
+[14:35:38.440] [object Array]
+[14:35:38.440] 7
+[14:35:38.441] 9
+[14:35:38.441] 17
+[14:35:38.441] 1
+--
+[14:35:47.680] var people = [
+ {age: 7}, {age: 9}, {age: 17}, {age: 1}]
+
+//people.map(function(d){console.log(d.age)})
+
+people.map( (person) => person.age)
+
+
+
+
+
+
+[14:35:47.690] [object Array]
+--
+[14:36:20.776] var people = [
+ {age: 7}, {age: 9}, {age: 17}, {age: 1}]
+
+//people.map(function(d){console.log(d.age)})
+
+people.map( (person) => person.age).forEach((x) => console.log(x.age))
+
+
+
+
+
+
+[14:36:20.786] undefined
+[14:36:20.787] undefined
+--
+[14:36:29.451] var people = [
+ {age: 7}, {age: 9}, {age: 17}, {age: 1}]
+
+//people.map(function(d){console.log(d.age)})
+
+people.map( (person) => person.age).foreach((x) => console.log(x.age))
+
+
+
+
+
+
+[14:36:29.471] TypeError: people.map(...).foreach is not a function
+--
+[14:36:36.943] var people = [
+ {age: 7}, {age: 9}, {age: 17}, {age: 1}]
+
+//people.map(function(d){console.log(d.age)})
+
+people.map( (person) => person.age).forEach((x) => console.log(x.age))
+
+
+
+
+
+
+[14:36:36.952] undefined
+[14:36:36.953] undefined
+--
+[14:37:14.262] var people = [
+ {age: 7}, {age: 9}, {age: 17}, {age: 1}]
+
+//people.map(function(d){console.log(d.age)})
+
+people.map( (person) => person.age).each((x) => console.log(x.age))
+
+
+
+
+
+
+[14:37:14.273] TypeError: people.map(...).each is not a function
+--
+[14:37:34.268] var people = [
+ {age: 7}, {age: 9}, {age: 17}, {age: 1}]
+
+//people.map(function(d){console.log(d.age)})
+
+people.map( (person) => person.age).forEach((x) => console.log(x.age))
+
+
+
+
+
+
+[14:37:34.286] undefined
+[14:37:34.287] undefined
+--
+[14:37:43.744] var people = [
+ {age: 7}, {age: 9}, {age: 17}, {age: 1}]
+
+//people.map(function(d){console.log(d.age)})
+
+people.map( (person) => person.age).forEach((x) => alert(x.age))
+
+
+
+
+
+
+[14:37:43.756] undefined
+--
+[14:37:59.266] var people = [
+ {age: 7}, {age: 9}, {age: 17}, {age: 1}]
+
+//people.map(function(d){console.log(d.age)})
+
+people.map( (person) => person.age).forEach((x) => alert(x))
+
+
+
+
+
+
+[14:37:59.281] undefined
